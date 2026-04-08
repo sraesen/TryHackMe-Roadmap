@@ -1238,48 +1238,5 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 - [ ] [🕵️ TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
 
 
-
-
-
-
-<details><summary><h2>📂 My More Work</h2></summary>
-  
-
-<div align="center"><h2>🛡️ Hacking</h2></div>
-
-<p align="center">
-  <a href="https://github.com/Hunterdii/Awesome-Hacking">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Hacking&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Hacking"></a>
-</p>
-
-
-  
-<div align="center"><h2>📘 DSA / Languages</h2></div>
-<p align="center">
-  <a href="https://github.com/Hunterdii/GeeksforGeeks-POTD">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=GeeksforGeeks-POTD&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="GeeksforGeeks-POTD"></a>
-
-  <a href="https://github.com/Hunterdii/Awesome-Java">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Awesome-Java&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Awesome-Java"></a>
-</p>
-
-
-
-<div align="center"><h2>🤖 ML / Projects</h2></div>
-
-<p align="center">
-  <a href="https://github.com/Hunterdii/Smart-AI-Resume-Analyzer">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=Smart-AI-Resume-Analyzer&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="Smart-AI-Resume-Analyzer"></a>
-
-  <a href="https://github.com/Hunterdii/AI-Nexus">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=AI-Nexus&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="AI-Nexus"></a>
-
-  <a href="https://github.com/Hunterdii/30-Days-Of-Rust">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hunterdii&repo=30-Days-Of-Rust&theme=github_dark&border_color=02D892&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="30-Days-Of-Rust"></a>
-</p>
-
-</details>
-
-
   <a href="https://buymeacoffee.com/het81857"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
