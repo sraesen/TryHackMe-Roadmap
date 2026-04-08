@@ -102,7 +102,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Web](#web)**                                  |     33       |                            |
 | **[Android](#android)**                          |      1       |                             |
 | **[Forensics](#forensics)**                      |     17       |                             |
-| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |                            |
+| **[Wifi Hacking](#wi-fi-hacking)**               |      1       |              1              |
 | **[Reverse Engineering](#reverse-engineering)**  |     9       |                             |
 | **[Malware Analysis](#malware-analysis)**        |      8       |                             |
 | **[Privilege Escalation](#privesc)**             |     13       |                           |
@@ -505,7 +505,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Wi-Fi Hacking
 
-- [ ] [🕵️ TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
+- [x] [🕵️ TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
 ## Reverse Engineering
 
