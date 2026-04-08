@@ -88,7 +88,7 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |              6              |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |              7              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              4              |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |              3             |
 | **[Basic Rooms](#basics-rooms)**                 |     13       |              2             |
@@ -176,7 +176,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 ## Intro Rooms
 
 
-- [ ] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
+- [x] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
   
 - [ ] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
   
@@ -202,13 +202,13 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
 - [x] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
 - [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
