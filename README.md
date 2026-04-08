@@ -88,7 +88,7 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:---------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     21       |              8              |
+| **[Introductory Rooms](#intro-rooms)**           |     21       |              9              |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              4              |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |              3             |
 | **[Basic Rooms](#basics-rooms)**                 |     13       |              2             |
@@ -186,7 +186,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
   
-- [ ] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [x] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
 - [ ] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
