@@ -104,7 +104,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Forensics](#forensics)**                      |     17       |                             |
 | **[Wifi Hacking](#wi-fi-hacking)**               |      1       |              1              |
 | **[Reverse Engineering](#reverse-engineering)**  |     9       |                             |
-| **[Malware Analysis](#malware-analysis)**        |      8       |                             |
+| **[Malware Analysis](#malware-analysis)**        |      8       |             1               |
 | **[Privilege Escalation](#privesc)**             |     13       |                           |
 | **[Windows](#windows)**                          |      9       |            1               |
 | **[Active Directory](#active-directory)**        |      8       |                             |
@@ -531,7 +531,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Intro to Detection Engineering](https://tryhackme.com/room/introtodetectionengineering)
 
-- [ ] [🕵️ TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
+- [x] [🕵️ TryHackMe | History of Malware](https://tryhackme.com/room/historyofmalware)
 
 - [ ] [🕵️ TryHackMe | MAL: Malware Introductory](https://tryhackme.com/room/malmalintroductory)
 
