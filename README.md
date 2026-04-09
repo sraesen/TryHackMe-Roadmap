@@ -97,7 +97,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Networking](#networking)**                    |      6       |              5             |
 | **[Tooling](#tooling)**                          |     18       |              6             |
 | **[Container Security](#container-security)**    |     3        |                              |
-| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |                            |
+| **[Cryptography & Hashes](#cryptography--hashes)**|      7       |              1             |
 | **[Steganography](#steganography)**              |      6       |                             |
 | **[Web](#web)**                                  |     33       |                            |
 | **[Android](#android)**                          |      1       |                             |
@@ -369,7 +369,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Breaking RSA](https://tryhackme.com/room/breakrsa)
 
-- [ ] [🕵️ TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [x] [🕵️ TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
 - [ ] [🕵️ TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
