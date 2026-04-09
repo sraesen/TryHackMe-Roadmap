@@ -92,7 +92,7 @@ If you appreciate this repository and want to show your support, you can do so t
 | **[Linux Fundamentals](#linux-fundamentals)**    |      4       |              4              |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |              3             |
 | **[Basic Rooms](#basics-rooms)**                 |     13       |              2             |
-| **[Reconnaissance](#recon)**                     |      9       |              4             |
+| **[Reconnaissance](#recon)**                     |      9       |              5             |
 | **[Scripting](#scripting)**                      |      7       |              1              |
 | **[Networking](#networking)**                    |      6       |              5             |
 | **[Tooling](#tooling)**                          |     18       |              6             |
@@ -277,7 +277,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [ ] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [X] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [🕵️ TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
