@@ -178,7 +178,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
   
-- [ ] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
+- [X] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
   
 - [X] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
   
@@ -198,7 +198,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [x] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [X] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 - [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
@@ -212,7 +212,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [X] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
