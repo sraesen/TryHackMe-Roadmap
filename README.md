@@ -259,7 +259,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
-- [ ] [🕵️ TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [X] [🕵️ TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [ ] [🕵️ TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
